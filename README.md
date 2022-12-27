@@ -58,3 +58,4 @@
   - 支持查询舰船信息、装备信息、强度榜、装备一图榜、全装备秒伤榜
 - SauceNao & Ascii2d 搜图
 - E-hentai 搜本
+- wuwuwuwuwuwu 那就这样吧
